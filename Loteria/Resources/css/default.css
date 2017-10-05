@@ -1,0 +1,16 @@
+﻿.text {
+    width: 4%;
+    text-align: center;
+}
+
+.centerDiv {
+    text-align: center;
+    width: 100%;
+    margin-top: 3%;
+}
+
+.resultado {
+    font-weight: bold;
+    color: cornflowerblue;
+    font-size: 20px;
+}
